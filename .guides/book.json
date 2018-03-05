@@ -1,0 +1,17 @@
+{
+ "name": "Lecture 1",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "78971d33-2a53-aa90-b03c-3f8e451e7577",
+   "pageId": "78971d33-2a53-aa90-b03c-3f8e451e7577",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "5d04621f-beda-a5b0-26e9-9949817860fb",
+   "pageId": "5d04621f-beda-a5b0-26e9-9949817860fb",
+   "type": "page"
+  }
+ ]
+}
